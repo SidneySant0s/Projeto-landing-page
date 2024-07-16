@@ -1,0 +1,63 @@
+body{
+    background-image: url(./Imagem/Delegaciadegotham.jpg);
+    width: max-content;
+    height: fit-content;
+}
+
+header{
+    position: fixed;
+}
+
+#menu-torre{
+    background-color: rgb(56, 55, 55);
+    color: rgb(253, 253, 253);
+    border-radius: 5px;
+    text-align: center;
+    width: 200px;
+    height: 250px;
+    opacity: 0.5;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#palhaco:hover{
+    background-color: rgb(111, 161, 11);
+}
+#palhaco{
+    border: 2px solid rgb(5, 172, 5);
+}
+button{
+    background-color: rgb(202, 178, 147);
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 5px 45px 5px 45px;
+    text-align: center;
+    display: center;
+}
+
+#colection{
+    margin-left: 300px;
+    padding: 30px 5px;
+}
+
+img{
+    width: 450px;
+    height: 250px;
+}
+
+.polaroid{
+    display: inline-table;
+    margin-right: 5px;
+    text-align: center;
+    border: 10px solid white;
+    background-color: white;
+    padding: 2px;
+}
+
+
